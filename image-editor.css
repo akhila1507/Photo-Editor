@@ -1,0 +1,36 @@
+#imageEditor {
+    margin:auto;
+    padding:20px;
+    border: 10px solid #ffffff;
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(20px);
+    border-radius: 35px;
+    position: relative;
+    margin-top: 4%;
+}
+
+#editorContainer {
+    display:block;
+    overflow: auto;
+    width: 800px;
+    height: 500px;
+}
+
+#editor {
+    display:block;
+    margin: auto;
+}
+
+#toolbar {
+    display:block;
+    margin-right: 7rem;
+}
+
+#toolbar button {
+    padding: 10px 20px 10px 20px;
+}
+
+#upload{
+    position: relative;
+    margin-right: 40%;
+}

@@ -1,0 +1,29 @@
+html,
+body {
+   margin: 0%;
+   border: 0;
+}
+.background-image{
+    background-image: url("file:///C:/Users/ASUS/Downloads/Frame%201%20(4).svg");
+    height: 100vh;
+    width: 100vw;
+}
+
+.text_box {
+    margin-top: 50px;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+}
+
+#container{
+    width: 100%;
+    display: flex;
+    margin: 0 auto;
+}
+
+.center_buttons {
+    margin:auto;
+    display:block;
+}
